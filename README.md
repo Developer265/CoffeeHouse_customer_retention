@@ -3,7 +3,7 @@ Coffee House is a multinational chain of coffeehouses and roastery reserves head
 As a data analyst, the objective is to implement an end-to-end data analysis project to understand the factors that are contributing to this decline and identify potential solutions to improve retention. We are required to undertake the following steps to identify potential solutions to improve retention for Coffee House using Python and Power BI: 
 
 1. Cleaning and preparing the given dataset for analysis.
-
 2. Exploring data to identify trends and patterns. 
-
 3. Developing solutions to the given problem statement in the light of your data insights using visualizations.
+
+Resource on the importance of retention analysis : https://www.paddle.com/resources/customer-retention-analysis
